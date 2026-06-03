@@ -15,6 +15,9 @@ img {
   color: white;
   font-weight: 200;
   font-size: 0.75em;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .header-wrapper ul {
